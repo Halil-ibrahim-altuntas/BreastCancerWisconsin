@@ -1,3 +1,3 @@
-3.Sınıf Python_basit_ve_çoklu_regresyon projemiz.	        
+3.Sınıf BreastCancerWisconsin Projemiz.
 https://github.com/FurkanKtk		            
 https://github.com/KaanHaciomeroglu	            
