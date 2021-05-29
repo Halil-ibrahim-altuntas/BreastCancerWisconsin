@@ -1,4 +1,3 @@
-3.Sınıf Breast Cancer Wisconsin projemiz.															
-https://github.com/KaanHaciomeroglu																	   	 
-https://github.com/FurkanKtk																    
-	    			
+3.Sınıf Python_basit_ve_çoklu_regresyon projemiz.	
+https://github.com/FurkanKtk		
+https://github.com/KaanHaciomeroglu	
