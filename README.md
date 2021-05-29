@@ -1,5 +1,4 @@
-					
-3.Sınıf Breast Cancer Wisconsin projemiz.												
-https://github.com/KaanHaciomeroglu															   	 
-https://github.com/FurkanKtk												    
-	    
+3.Sınıf Breast Cancer Wisconsin projemiz.															
+https://github.com/KaanHaciomeroglu																	   	 
+https://github.com/FurkanKtk																    
+	    			
